@@ -1,5 +1,5 @@
 # Business Card PCB
-A personal <b>Business Card</b> designed as a <b>PCB</b>. Uses <b>NFC</b> to share contact information wirelessly. 
+A personal <b>Business Card</b> designed as a <b>PCB</b>. It contains an integrated <b>NFC</b> tag to share contact information wirelessly, and uses energy harvesting from NFC field to light up the LED circuitry!! 
 
 ![PCB front view](https://user-images.githubusercontent.com/22257322/212734680-56e4b8f4-9d41-4294-b3af-e1afb594dcd1.png)
 
